@@ -9,7 +9,9 @@ To use either use MultiFailureDriver or SingleLinkFailureDriver (these are the s
 
 # Dependencies:
 To run the optimization algorithms you will need to download and install CVX as well as Mosek.
+
 Links:
+
 http://cvxr.com/cvx/
 https://www.mosek.com/products/mosek/
 
