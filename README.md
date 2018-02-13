@@ -7,7 +7,7 @@ Behnaz Arzani, Selim Ciraci, Luiz Chamon, Yibo Zhu, Jitu Padhye, Geoff Outhred, 
 To use either use MultiFailureDriver or SingleLinkFailureDriver (these are the starting points of the code).
 
 
-#Dependencies:
+# Dependencies:
 To run the optimization algorithms you will need to download and install CVX as well as Mosek.
 Links:
 http://cvxr.com/cvx/
