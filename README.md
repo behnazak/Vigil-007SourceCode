@@ -13,5 +13,6 @@ To run the optimization algorithms you will need to download and install CVX as 
 Links:
 
 http://cvxr.com/cvx/
+
 https://www.mosek.com/products/mosek/
 
