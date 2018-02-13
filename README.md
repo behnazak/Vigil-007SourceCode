@@ -18,3 +18,5 @@ http://cvxr.com/cvx/
 
 https://www.mosek.com/products/mosek/
 
+All code has to be run in MATLAB.
+
