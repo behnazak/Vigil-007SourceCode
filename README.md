@@ -5,3 +5,5 @@ The source code for the simulations in the paper:
 Behnaz Arzani, Selim Ciraci, Luiz Chamon, Yibo Zhu, Jitu Padhye, Geoff Outhred, and Boon Thau Loo
 
 To use either use MultiFailureDriver or SingleLinkFailureDriver (these are the starting points of the code).
+
+To run the optimization algorithms you will need to download and install CVX as well as Mosek.
