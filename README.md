@@ -6,7 +6,9 @@ The source code for the simulations in the paper:
 
 Behnaz Arzani, Selim Ciraci, Luiz Chamon, Yibo Zhu, Jitu Padhye, Geoff Outhred, and Boon Thau Loo
 
-To use either use MultiFailureDriver or SingleLinkFailureDriver (these are the starting points of the code).
+To run: use MultiFailureDriver or SingleLinkFailureDriver (these are the starting points/drivers of the code). 
+
+It is recommended that you read the functions carefully before executing the code.
 
 
 # Dependencies:
